@@ -1,6 +1,6 @@
 This is beta testing.
 
-OS is currently dependent on Windows until further notice. 
+OS is currently dependent on Windows until further notice. (this project is mainly focusing on building a working OS with batch files '.bat' so don't expect much)
 
 Issues you may notice:
 The OS will refuse to open files like .exe, .dll, and .bat because they are executables that may harm your computer. This
